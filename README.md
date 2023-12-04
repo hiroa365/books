@@ -8,12 +8,41 @@
     - https://www.amazon.co.jp/dp/4478114374
 - 構造化思考トレーニング
     - https://www.amazon.co.jp/dp/4296001191
+
+
 - 目的ドリブンの思考法
     - https://www.amazon.co.jp/dp/479932831X
 - 実践型クリティカルシンキング
     - www.amazon.co.jp/dp/479932862X
 - 「具体⇄抽象」トレーニング
     - https://www.amazon.co.jp/dp/4569845991
+- ロジカル資料作成トレーニング
+    - https://www.amazon.co.jp/dp/4296001620
+- イシューからはじめよ
+    - https://www.amazon.co.jp/dp/4862760856
+
+- 世界一やさしい右脳型問題解決の授業
+    - https://www.amazon.co.jp/dp/4478101191
+- 新しい文章力の教室
+    - https://www.amazon.co.jp/dp/4844338722
+- ビジネス文章力の基本
+    - https://www.amazon.co.jp/dp/4534058217
+- 
+    - 
+- 
+    - 
+- 
+    - 
+- 
+    - 
+
+
+
+
+
+
+
+
 
 
 - 単体テストの考え方/使い方
