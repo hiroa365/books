@@ -8,8 +8,8 @@
     - https://www.amazon.co.jp/dp/4478114374
 - 構造化思考トレーニング
     - https://www.amazon.co.jp/dp/4296001191
-
-
+-
+    - 
 - 目的ドリブンの思考法
     - https://www.amazon.co.jp/dp/479932831X
 - 実践型クリティカルシンキング
@@ -20,7 +20,8 @@
     - https://www.amazon.co.jp/dp/4296001620
 - イシューからはじめよ
     - https://www.amazon.co.jp/dp/4862760856
-
+-
+    - 
 - 世界一やさしい右脳型問題解決の授業
     - https://www.amazon.co.jp/dp/4478101191
 - 新しい文章力の教室
