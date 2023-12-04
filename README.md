@@ -1,21 +1,23 @@
+- 解像度を上げる
+    - http://www.amazon.co.jp/dp/4862763189
+- とにかく仕組み化
+    - https://www.amazon.co.jp/dp/4478117748
+- リーダーの仮面
+    - https://www.amazon.co.jp/dp/4478110514
+- 数値化の鬼
+    - https://www.amazon.co.jp/dp/4478114374
+- 構造化思考トレーニング
+    - https://www.amazon.co.jp/dp/4296001191
+- 目的ドリブンの思考法
+    - https://www.amazon.co.jp/dp/479932831X
+- 実践型クリティカルシンキング
+    - www.amazon.co.jp/dp/479932862X
+- 「具体⇄抽象」トレーニング
+    - https://www.amazon.co.jp/dp/4569845991
 
-- プロジェクトマネジメントの基本が全部わかる本
-    - http://www.amazon.co.jp/dp/4798177415
-
-- 現場で役立つシステム設計の原則
-    - http://www.amazon.co.jp/dp/477419087X
-
-- 人が増えても速くならない
-    - http://www.amazon.co.jp/dp/4297135655
-
-- エンジニアのためのマネジメントキャリアパス ―テックリードからCTOまでマネジメントスキル向上ガイド
-    - http://www.amazon.co.jp/dp/4873118484
 
 - 単体テストの考え方/使い方
     - http://www.amazon.co.jp/dp/4839981728
-
-- 解像度を上げる
-    - http://www.amazon.co.jp/dp/4862763189
 
 - スタッフエンジニア　マネジメントを超えるリーダーシップ
     - http://www.amazon.co.jp/dp/429607055X
