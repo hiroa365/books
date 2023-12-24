@@ -1,19 +1,18 @@
-- 解像度を上げる
-    - http://www.amazon.co.jp/dp/4862763189
-- とにかく仕組み化
-    - https://www.amazon.co.jp/dp/4478117748
-- リーダーの仮面
-    - https://www.amazon.co.jp/dp/4478110514
-- 数値化の鬼
-    - https://www.amazon.co.jp/dp/4478114374
+- アサーティブ・コミュニケーション
+    - https://www.amazon.co.jp/dp/4296114514 
 - 構造化思考トレーニング
     - https://www.amazon.co.jp/dp/4296001191
--
-    - 
-- 目的ドリブンの思考法
-    - https://www.amazon.co.jp/dp/479932831X
+-「わかりあえない」を越える
+    - https://www.amazon.co.jp/dp/4909934014
+- 単体テストの考え方/使い方
+    - https://www.amazon.co.jp/dp/4839981728
+
 - 実践型クリティカルシンキング
-    - www.amazon.co.jp/dp/479932862X
+    - https://www.amazon.co.jp/dp/479932862X
+ 
+
+- 数値化の鬼
+    - https://www.amazon.co.jp/dp/4478114374
 - 「具体⇄抽象」トレーニング
     - https://www.amazon.co.jp/dp/4569845991
 - ロジカル資料作成トレーニング
