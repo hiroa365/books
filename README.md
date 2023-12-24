@@ -2,7 +2,7 @@
     - https://www.amazon.co.jp/dp/4296114514 
 - 構造化思考トレーニング
     - https://www.amazon.co.jp/dp/4296001191
--「わかりあえない」を越える
+- 「わかりあえない」を越える
     - https://www.amazon.co.jp/dp/4909934014
 - 単体テストの考え方/使い方
     - https://www.amazon.co.jp/dp/4839981728
