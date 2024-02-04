@@ -1,3 +1,10 @@
+- Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考
+    - https://https://www.amazon.co.jp/dp/4798068160
+- テスト駆動開発
+    - https://www.amazon.co.jp/dp/4274217884
+- 単体テストの考え方/使い方
+    - https://www.amazon.co.jp/dp/4814400314
+
 - アサーティブ・コミュニケーション
     - https://www.amazon.co.jp/dp/4296114514 
 - 構造化思考トレーニング
