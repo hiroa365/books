@@ -1,15 +1,17 @@
+- 入門 継続的デリバリー
+    - https://www.amazon.co.jp/dp/4814400691
+- GitLabに学ぶ パフォーマンスを最大化させるドキュメンテーション
+    - https://www.amazon.co.jp/dp/4798185701
+- SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版
+    - https://www.amazon.co.jp/dp/4296000500
+
 - スタッフエンジニアの道
     - https://www.amazon.co.jp/dp/4814400861
 - 技術者のためのテクニカルライティング入門講座 第2版
     - https://www.amazon.co.jp/dp/4798188425
-- SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版
-    - https://www.amazon.co.jp/dp/4296000500
-- GitLabに学ぶ パフォーマンスを最大化させるドキュメンテーション
-    - https://www.amazon.co.jp/dp/4798185701
-- 入門 継続的デリバリー
-    - https://www.amazon.co.jp/dp/4814400691
 - テスト駆動開発
     - https://www.amazon.co.jp/dp/4274217884
+
 - 単体テストの考え方/使い方
     - https://www.amazon.co.jp/dp/4839981728
 - ドメイン駆動設計をはじめよう
