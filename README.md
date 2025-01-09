@@ -1,16 +1,28 @@
+- スタッフエンジニアの道
+    - https://www.amazon.co.jp/dp/4814400861
+- 技術者のためのテクニカルライティング入門講座 第2版
+    - https://www.amazon.co.jp/dp/4798188425
 - SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版
     - https://www.amazon.co.jp/dp/4296000500
+- GitLabに学ぶ パフォーマンスを最大化させるドキュメンテーション
+    - https://www.amazon.co.jp/dp/4798185701
+- 入門 継続的デリバリー
+    - https://www.amazon.co.jp/dp/4814400691
 - テスト駆動開発
     - https://www.amazon.co.jp/dp/4274217884
 - 単体テストの考え方/使い方
     - https://www.amazon.co.jp/dp/4839981728
+- ドメイン駆動設計をはじめよう
+    - https://www.amazon.co.jp/dp/481440073X
+- チームトポロジー 価値あるソフトウェアをすばやく届ける適応型組織設計
+    - https://www.amazon.co.jp/dp/4820729632
+
+----------------------
 
 - 会計クイズを解くだけで財務3表がわかる 世界一楽しい決算書の読み方
     - https://www.amazon.co.jp/dp/4046043679
 - タスク管理をなんとかしたいと思ったら最初に読む本
     - https://www.amazon.co.jp/dp/B0C87HHRJY
-
-----------------------
 
 - マイクロサービスパターン[実践的システムデザインのためのコード解説]
     - https://www.amazon.co.jp/dp/4295008583
@@ -28,10 +40,6 @@
 
 ----------------------
 
-- ドメイン駆動設計をはじめよう
-    - https://www.amazon.co.jp/dp/481440073X
-- チームトポロジー 価値あるソフトウェアをすばやく届ける適応型組織設計
-    - https://www.amazon.co.jp/dp/4820729632
 - 行動経済学が最強の学問である
     - https://www.amazon.co.jp/dp/4815619506
 
