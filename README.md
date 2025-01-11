@@ -1,12 +1,3 @@
-- 入門 継続的デリバリー
-    - https://www.amazon.co.jp/dp/4814400691
-- GitLabに学ぶ パフォーマンスを最大化させるドキュメンテーション
-    - https://www.amazon.co.jp/dp/4798185701
-- SOFT SKILLS ソフトウェア開発者の人生マニュアル 第2版
-    - https://www.amazon.co.jp/dp/4296000500
-
-------
-
 - スタッフエンジニアの道
     - https://www.amazon.co.jp/dp/4814400861
 - 技術者のためのテクニカルライティング入門講座 第2版
@@ -23,7 +14,10 @@
 - クリーンコードクックブック
     - https://www.amazon.co.jp/dp/4814400977
 
+------
 
+- エンジニアのためのドキュメントライティング
+    - https://www.amazon.co.jp/dp/4800590833
 - チームトポロジー 価値あるソフトウェアをすばやく届ける適応型組織設計
     - https://www.amazon.co.jp/dp/4820729632
 
