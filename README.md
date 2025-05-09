@@ -1,3 +1,55 @@
+## EM？
+- エンジニアのためのマネジメント入門　*1
+    - https://www.amazon.co.jp/dp/4297133342/
+- エンジニアリングマネージャーのしごと
+    - https://www.amazon.co.jp/dp/4873119944/
+- エンジニアリング組織論への招待　*2
+    - https://www.amazon.co.jp/dp/4774196053/
+## 入口
+- スタッフエンジニア
+    - https://www.amazon.co.jp/dp/429607055X/
+- 図解 人材マネジメント 入門　*1
+    - https://www.amazon.co.jp/dp/4799326120/
+- 図解 組織開発入門
+    -https://www.amazon.co.jp/dp/4799328247/
+- 「組織開発」を推進し、成果を上げる マネジャーによる職場づくり 理論と実践
+    - https://www.amazon.co.jp/dp/4820729527/
+## 心構え
+- 他者と働く　*1
+    - https://www.amazon.co.jp/dp/4910063013/
+- チームが機能するとはどういうことか　*2
+    - https://www.amazon.co.jp/dp/4862761828/
+- ピープルウエア 第3版
+    - https://www.amazon.co.jp/dp/4822285243/
+## リーダーシップ
+- エラスティックリーダーシップ　廃版
+    - https://www.amazon.co.jp/dp/4873118026/
+- セキュアベース・リーダーシップ
+    - https://www.amazon.co.jp/dp/4833422964/
+- なぜ人と組織は変われないのか
+    - https://www.amazon.co.jp/dp/4862761542/
+## 組織パフォーマンス
+- HIGH OUTPUT MANAGEMENT　*2
+    - https://www.amazon.co.jp/dp/4822255018/
+- LISTEN
+    - https://www.amazon.co.jp/dp/4822289001/
+- 具体と抽象
+    - https://www.amazon.co.jp/dp/4907623100/
+- This is Lean 　*1
+    - https://www.amazon.co.jp/dp/479816951X/
+- なぜあの人の解決策はいつもうまくいくのか?　*2
+    - https://www.amazon.co.jp/dp/4492555757/
+- LeanとDevOpsの科学
+    - https://www.amazon.co.jp/dp/4295004901/
+- 学習する組織
+    - https://www.amazon.co.jp/dp/4862761011/
+- 失敗の本質-日本軍の組織論的研究
+    - https://www.amazon.co.jp/dp/4122075939/
+
+
+-----------------
+
+
 - スタッフエンジニアの道
     - https://www.amazon.co.jp/dp/4814400861
 - 技術者のためのテクニカルライティング入門講座 第2版
